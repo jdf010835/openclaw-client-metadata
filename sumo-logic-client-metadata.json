@@ -1,0 +1,10 @@
+{
+  "client_id": "https://raw.githubusercontent.com/jdf010835/openclaw-client-metadata/main/sumo-logic-client-metadata.json",
+  "client_name": "OpenClaw MCP (Jeeves)",
+  "client_uris": [],
+  "redirect_uris": ["http://127.0.0.1:8989/oauth/callback"],
+  "response_types": ["code"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "native"
+}
